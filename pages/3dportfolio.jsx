@@ -50,8 +50,8 @@ const Dportfolio = () => {
             <br />
             Open the door to new opportunities and collaborations as you
             showcase my work like never before. Let my portfolio speak volumes
-            about my passion and expertise - it's time to unleash my creativity
-            with my mesmerizing 3D portfolio showcase.
+            about my passion and expertise - it&apos;s time to unleash my
+            creativity with my mesmerizing 3D portfolio showcase.
           </p>
           <Link href={"https://waley-code.github.io/portfolio"}>
             <button className="px-8 py-2 mt-4 mr-8">Live Project</button>

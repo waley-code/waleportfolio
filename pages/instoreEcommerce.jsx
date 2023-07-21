@@ -34,8 +34,8 @@ const instoreEcommerce = () => {
             <br />
             With InStore, customers can explore a wide variety of products, from
             trendy fashion items to cutting-edge gadgets, all from the comfort
-            of their homes. The project's intuitive interface, built with React,
-            ensures a user-friendly shopping journey, allowing users to
+            of their homes. The project&apos;s intuitive interface, built with
+            React, ensures a user-friendly shopping journey, allowing users to
             effortlessly find and add items to their carts. To ensure a smooth
             checkout process, InStore integrates Stripe, a trusted and secure
             payment gateway. With Stripe, customers can confidently finalize
@@ -46,15 +46,15 @@ const instoreEcommerce = () => {
             <br />
             TypeScript adds an extra layer of reliability to the codebase,
             reducing errors and making the development process more productive
-            and maintainable. Thanks to Vercel's seamless deployment
+            and maintainable. Thanks to Vercel&apos;s seamless deployment
             capabilities, InStore is effortlessly accessible to customers
-            worldwide. Whether it's on desktops, laptops, or mobile devices, the
-            platform delivers a consistent and delightful shopping experience to
-            every user. InStore empowers sellers to showcase their products and
-            reach a broader audience, while providing shoppers with a convenient
-            and secure ecommerce solution. Whether it's a fashion statement or
-            the latest tech gadget, InStore makes online shopping a breeze,
-            bringing joy and convenience to your doorstep.
+            worldwide. Whether it&apos;s on desktops, laptops, or mobile
+            devices, the platform delivers a consistent and delightful shopping
+            experience to every user. InStore empowers sellers to showcase their
+            products and reach a broader audience, while providing shoppers with
+            a convenient and secure ecommerce solution. Whether it&apos;s a
+            fashion statement or the latest tech gadget, InStore makes online
+            shopping a breeze, bringing joy and convenience to your doorstep.
           </p>
           <Link href={"https://instore-ecommerce.vercel.app"}>
             <button className="px-8 py-2 mt-4 mr-8">Live Project</button>
