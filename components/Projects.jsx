@@ -1,10 +1,10 @@
 import Image from "next/image";
 import React from "react";
-import PortfolioImg from "../public/assets/projects/personalPortfolio.png";
-import NetflixImg from "../public/assets/projects/netflix.jpg";
-import TwitterImg from "../public/assets/projects/3Dportfolio.png";
-import InStoreImg from "../public/assets/projects/instore.png";
-import DashBoardImg from "../public/assets/projects/property.jpg";
+import PortfolioImg from "/static/images//projects/personalPortfolio.png";
+import NetflixImg from "/static/images//projects/netflix.jpg";
+import TwitterImg from "/static/images//projects/3Dportfolio.png";
+import InStoreImg from "/static/images//projects/instore.png";
+import DashBoardImg from "/static/images//projects/property.jpg";
 import Link from "next/link";
 import ProjectItemCard from "./ProjectItemCard";
 
