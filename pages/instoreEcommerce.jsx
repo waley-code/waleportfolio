@@ -1,5 +1,5 @@
 import React from "react";
-import instoreImg from "../public/assets/projects/instore.png";
+import instoreImg from "../public/images/projects/instore.png";
 import Image from "next/image";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";

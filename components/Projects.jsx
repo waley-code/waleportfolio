@@ -4,7 +4,6 @@ import PortfolioImg from "../public/images/projects/personalPortfolio.png";
 import NetflixImg from "../public/images/projects/netflix.jpg";
 import TwitterImg from "../public/images/projects/3Dportfolio.png";
 import InStoreImg from "../public/images/projects/instore.png";
-import DashBoardImg from "../public/images/projects/property.jpg";
 import Link from "next/link";
 import ProjectItemCard from "./ProjectItemCard";
 
