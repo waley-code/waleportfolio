@@ -14,14 +14,14 @@ const Main = () => {
             LET&apos;S BUILD SOLUTIONS TOGETHER
           </p>
           <h1 className="py-4 text-gray-100">
-            Hi, I&apos;m <span className="text-[#5651e5]">Pelumi </span>{" "}
+            Hi, I&apos;m <span className="text-[#5651e5]">Wale </span>{" "}
           </h1>
-          <h1 className="py-4 text-700">A Full-Stack Software Engineer</h1>
+          <h1 className="py-4 text-700">Full-Stack Software Engineer</h1>
           <div className="">
             <p className="py-4 text-gray-100 max-w-[70%] m-auto ">
-              A Full Stack Software Engineer with specialty in back-end
+              I am a Full Stack Software Engineer with specialty in back-end and front-end
               development having proficiency in technologies such as C,
-              JavaScript, Node.js, Python, Flask, MySQL, PostgreSQL, and
+              JavaScript, Node.js, React, Next, Python, Flask, MySQL, PostgreSQL, and
               MongoDB, having strong understanding of web development concepts,
               including web protocols, web services, and web architecture.
             </p>

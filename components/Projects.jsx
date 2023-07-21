@@ -17,6 +17,12 @@ const Projects = () => {
         <h2 className="py-4">What I&apos;ve built</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItemCard
+            title="InStore Ecommerce Store"
+            backgroundImg={InStoreImg}
+            projectUrl="/instoreEcommerce"
+            techStack={("React Js", "Tailwind")}
+          />
+          <ProjectItemCard
             title="Netflix Clone"
             backgroundImg={NetflixImg}
             projectUrl="/netflix"
@@ -26,12 +32,6 @@ const Projects = () => {
             title="3D Portfolio"
             backgroundImg={TwitterImg}
             projectUrl="/3dportfolio"
-            techStack={("React Js", "Tailwind")}
-          />
-          <ProjectItemCard
-            title="InStore Ecommerce Store"
-            backgroundImg={InStoreImg}
-            projectUrl="/instoreEcommerce"
             techStack={("React Js", "Tailwind")}
           />
           <ProjectItemCard

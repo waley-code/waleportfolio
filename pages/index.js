@@ -15,8 +15,8 @@ export default function Home() {
       <div>
 
         <Head >
-          <title>Pelumi Adeosun | Full-stack Engineer</title>
-          <meta name='Pelumi Adeosun' content='AdeosunOyewale Oluwapelumi' />
+          <title>Adeosun Oyewale | Full-stack Engineer</title>
+          <meta name='Adeosun Oyewale' content='Adeosun Oyewale Oluwapelumi' />
           <link rel='' href='' />
         </Head>
         <Main />
