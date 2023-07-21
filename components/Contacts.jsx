@@ -1,5 +1,5 @@
 import React from "react";
-import contactImg from "/static/images/projects/contact.jpg";
+import contactImg from "../public/images/projects/contact.jpg";
 import Image from "next/image";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { BsPersonLinesFill } from "react-icons/bs";
