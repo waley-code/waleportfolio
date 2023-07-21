@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import About from 'src/components/About'
 import Skills from 'src/components/Skills'
-import Projects from 'src/components/projects'
+import Projects from 'src/components/Projects'
 import Contacts from 'src/components/Contacts'
 
 
