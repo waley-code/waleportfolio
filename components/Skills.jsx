@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import html from "/images/skills/html.png";
+import html from "../public/images/skills/html.png";
 
 const Skills = () => {
   return (
