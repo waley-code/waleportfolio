@@ -28,7 +28,7 @@ const About = () => {
             </p>
           </div>
           <div className=" w-full h-auto m-auto shadow-xl rounded-xl flex items-center justify-center p-4 hover:scale-110 duration-500 ">
-            <Image src="/../public/assets/about1.png" alt="/" width={800} height={200} />
+            <Image src={"/assets/about1.png"} alt="/" width={800} height={200} />
           </div>
           <div></div>
         </div>
