@@ -17,7 +17,7 @@ const Skills = () => {
             <div className="p-6 shadow-xl rounded-xl hover:scale-110 ease-in duration-300">
               <div className="grid grid-cols-2 gap-4 justify-center items-center">
                 <div className="m-auto">
-                  <Image src={html} alt="/" width={64} height={64} />
+                  <img src={html} alt="/" width={64} height={64} />
                 </div>
                 <div className=" flex flex-col items-center justify-around">
                   <h3>HTML</h3>
@@ -29,7 +29,7 @@ const Skills = () => {
             <div className="p-6 shadow-xl rounded-xl hover:scale-110 ease-in duration-300">
               <div className="grid grid-cols-2 gap-4 justify-center items-center">
                 <div className="m-auto">
-                  <Image
+                  <img
                     src={"/images/skills/css.png"}
                     alt="/"
                     width={64}
