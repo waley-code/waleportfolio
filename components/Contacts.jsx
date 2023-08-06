@@ -26,7 +26,7 @@ const Contacts = () => {
                 alt="/"
               />
               <div className="">
-                <h2 className="py-4">Pelumi Adeosun</h2>
+                <h2 className="py-4">Wale Adeosun</h2>
                 <p>Full-Stack Software Engineer</p>
                 <p className="py-4">
                   I am available for freelance or full-time positions. Contact
