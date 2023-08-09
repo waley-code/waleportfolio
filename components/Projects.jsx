@@ -17,6 +17,12 @@ const Projects = () => {
         <h2 className="py-4">What I&apos;ve built</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItemCard
+            title="Threads Clone App"
+            backgroundImg={InStoreImg}
+            projectUrl="/threadsclone"
+            techStack={"Next.js 13, React, TypeScript"}
+          />
+          <ProjectItemCard
             title="InStore Ecommerce Store"
             backgroundImg={InStoreImg}
             projectUrl="/instoreEcommerce"
