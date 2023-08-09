@@ -5,6 +5,7 @@ import NetflixImg from "../public/images/projects/netflix.jpg";
 import TwitterImg from "../public/images/projects/3Dportfolio.png";
 import InStoreImg from "../public/images/projects/instore.png";
 import Link from "next/link";
+import threads from "../public/images/projects/treadsfull.png";
 import ProjectItemCard from "./ProjectItemCard";
 
 const Projects = () => {
@@ -18,7 +19,7 @@ const Projects = () => {
         <div className="grid md:grid-cols-2 gap-8">
           <ProjectItemCard
             title="Threads Clone App"
-            backgroundImg={InStoreImg}
+            backgroundImg={threads}
             projectUrl="/threadsclone"
             techStack={"Next.js 13, React, TypeScript"}
           />
